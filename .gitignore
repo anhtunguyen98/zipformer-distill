@@ -1,0 +1,12 @@
+/icefall/
+/.deps/
+/.venv/
+/assets/
+/*_exp/
+__pycache__/
+*.pyc
+*.log
+*.pt
+*.onnx
+.env
+/exp/
